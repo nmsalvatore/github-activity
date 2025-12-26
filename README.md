@@ -8,7 +8,7 @@ Make sure [Go is installed](https://go.dev/doc/install), then build the binary w
 
 ## Usage
 
-Run the application by calling `./github-activity` from the project directory. The application accepts a GitHub username as its sole argument and will log the user's recently GitHub activity.
+Run the application by calling `./github-activity` from the project directory. The application accepts a GitHub username as its sole argument and will log the user's recent GitHub activity.
 
 ### Example
 
